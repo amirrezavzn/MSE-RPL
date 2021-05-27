@@ -1,0 +1,14 @@
+-------------MSE-RPL: Mobility Support Enhancement in RPL-----------------------
+-----------------------Author: Amirreza vaezian---------------------------------
+
+
+-Implementation codes of MSE protocol includs all .c files in the "rpl" folder
+
+-there are lots of variables that must be valued according to the application characteristics
+ (e.g. number of nodes, nodes speed, tx range, etc,.), otherwise, it might have a wrong result!   
+ 
+-this file is not the last version of MSE!!
+
+-copy this folder to the path below:
+	Contiki/core
+	and replace with default "net" folder
